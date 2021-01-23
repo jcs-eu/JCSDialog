@@ -1,0 +1,3 @@
+include ':jcsdialog'
+include ':app'
+rootProject.name = "JCSDialog"

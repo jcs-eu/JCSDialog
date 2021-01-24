@@ -1,3 +1,4 @@
 include ':jcsdialog'
+include ':jcsdialog'
 include ':app'
 rootProject.name = "JCSDialog"
